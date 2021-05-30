@@ -1,7 +1,7 @@
 # Mini-Projeto
 ## Uber Interno - UFCG
 
-###Submeta uma especificação em Alloy com o seguinte sistema:
+### Submeta uma especificação em Alloy com o seguinte sistema:
 
 A UFCG vai implantar um sistema de Uber interno (quando todos estiverem devidamente vacinados). 
 
